@@ -39,3 +39,7 @@ pip install opencv-python numpy matplotlib
 
 git clone https://github.com/yourusername/enhancing-visual-data-opencv.git
 cd enhancing-visual-data-opencv
+
+
+python enhance_image.py --input image.jpg --output enhanced_image.jpg
+
